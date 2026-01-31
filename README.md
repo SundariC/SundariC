@@ -1,25 +1,43 @@
-<h1 align="center">Hi 👋, I'm Sundari</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
+# Hey there! 👋 I'm Sundari C
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sundaric&label=Profile%20views&color=0e75b6&style=flat" alt="sundaric" /> </p>
+I'm a passionate **Full Stack Developer (MERN)** based in Chennai. I love building scalable web applications and turning complex ideas into smooth user experiences.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sundaric" alt="sundaric" /></a> </p>
+### 🔧 Technologies & Tools
 
-- 🌱 I’m currently learning **MERN stack**
+* **Languages:** JavaScript (ES6+), HTML5, CSS3
+* **Frameworks/Libraries:** React.js, Redux, Express.js, Tailwind CSS, Framer Motion
+* **Database:** MongoDB, MySQL
+* **Tools:** Node.js, Git, GitHub, VS Code, Postman
 
-- 💬 Ask me about **javascript, reactjs, nodejs,**
+### 🌱 Currently Learning
+I'm currently diving deeper into **Advanced Backend Patterns** and **Cloud Deployment** to enhance my full-stack skills.
 
-- 📫 How to reach me **csundari2000@gmail.com**
+### 🚀 About Me
+I thrive in collaborative environments and enjoy solving real-world problems. Currently, I'm working on projects like **Mind Connect** (Mental Health Support) and **Smart Expense Tracker**.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+### 🔭 I’m currently working on
+- Enhancing **Mind Connect** with more interactive features.
+- Building a high-performance productivity tool called **QuickNotes**.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+### 👯 I’m looking to collaborate on
+Open-source projects related to **React.js** and **MERN Stack**.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sundaric&show_icons=true&locale=en&layout=compact" alt="sundaric" /></p>
+### 💬 Ask me about
+Web development, UI/UX with Tailwind, or MERN stack best practices!
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sundaric&show_icons=true&locale=en" alt="sundaric" /></p>
+### 📫 How to reach me
+- [LinkedIn](https://www.linkedin.com/in/sundari-c-b81b67222/)
+- [Portfolio](https://my-portfolio-one-inky-28.vercel.app/)
+- Email: csundari2000@gmail.com
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sundaric&" alt="sundaric" /></p>
+---
+
+### 🌟 Major Repositories
+
+- **Mind Connect:** Comprehensive MERN application for mental health support.
+- **Smart Expense Tracker:** Real-time financial management tool.
+- **QuickNotes:** Minimalist productivity app.
+
+### 📊 GitHub Stats
+![Sundari's GitHub stats](https://github-readme-stats.vercel.app/api?username=SundariC&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SundariC&layout=compact&theme=radical)
